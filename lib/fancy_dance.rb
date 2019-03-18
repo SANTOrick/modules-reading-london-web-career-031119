@@ -1,5 +1,5 @@
 class FancyDance
-  include Dance
+  include Dance::InstanceMethods
 
   def metadata
     return "This class produces objects that love to dance."
