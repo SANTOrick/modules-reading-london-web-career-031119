@@ -13,3 +13,5 @@ class FancyDance
     end
 
 end
+
+end
