@@ -1,5 +1,4 @@
 module Dance
-
   def twirl
     return "I'm twirling!"
   end
@@ -15,5 +14,5 @@ module Dance
   def take_a_bow
     return "Thank you, thank you. It was a pleasure to dance for you all."
   end
-
+end
 end
