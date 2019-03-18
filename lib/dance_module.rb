@@ -1,5 +1,5 @@
 module Dance
-class InstanceMethods
+module InstanceMethods
   def twirl
     return "I'm twirling!"
   end
