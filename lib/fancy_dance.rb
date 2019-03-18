@@ -1,6 +1,5 @@
 class FancyDance
   include Dance
-  extend FancyDance::MetaDancing
 
   def metadata
     return "This class produces objects that love to dance."
